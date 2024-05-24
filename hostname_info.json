@@ -1,0 +1,14 @@
+[
+    {
+        "username": "k",
+        "password": "k",
+        "files": {
+            "copy (1) of assignment1.txt": "./downloads/assignment1.txt"
+        }
+    },
+    {
+        "username": "khoa",
+        "password": "khoa",
+        "files": {}
+    }
+]
